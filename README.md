@@ -53,7 +53,7 @@ Established a logical Organizational Unit (OU) structure to mirror corporate dep
 Developed a concise PowerShell loop to automate the creation of 100 Active Directory user objects. This demonstrates the ability to use CLI tools to perform bulk administrative tasks efficiently, a key skill for enterprise Help Desk environments.
 
 #### 08. Bulk Provisioning Success
-![Successful Provisioning](images/08-successful-provisioning.png)
+![Successful Provisioning](images/08-ad-verification.png)
 Confirmed successful script execution by verifying the injection of 100 user objects into the '_Employees' OU within the ADUC console. This side-by-side validation ensures database integrity post-automation.
 
 ---
